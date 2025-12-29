@@ -297,6 +297,9 @@
       },
       "purifier": {
         "name": "Pročistač"
+      },
+      "prompt_tone": {
+        "name": "Zvuk"
       }
     }
   }

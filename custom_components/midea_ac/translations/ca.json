@@ -159,7 +159,8 @@
           },
           "preset_mode": {
             "state": {
-              "ieco": "iECO"
+              "ieco": "iECO",
+              "ai": "Mode IA"
             }
           },
           "swing_mode": {
@@ -291,8 +292,14 @@
       "flash_cool": {
         "name": "Flash cool"
       },
+      "ai": {
+        "name": "Mode IA"
+      },
       "purifier": {
         "name": "Purificador"
+      },
+      "prompt_tone": {
+        "name": "So"
       }
     }
   }

@@ -297,6 +297,9 @@
       },
       "purifier": {
         "name": "Čistilc zraka"
+      },
+      "prompt_tone": {
+        "name": "Pisk"
       }
     }
   }

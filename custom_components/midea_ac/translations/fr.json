@@ -293,6 +293,9 @@
       },
       "purifier": {
         "name": "Purificateur"
+      },
+      "prompt_tone": {
+        "name": "Bip"
       }
     }
   }

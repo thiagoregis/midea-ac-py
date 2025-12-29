@@ -297,6 +297,9 @@
       },
       "purifier": {
         "name": "Purificador"
+      },
+      "prompt_tone": {
+        "name": "Pitido"
       }
     }
   }

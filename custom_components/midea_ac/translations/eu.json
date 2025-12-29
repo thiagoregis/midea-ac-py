@@ -159,7 +159,8 @@
           },
           "preset_mode": {
             "state": {
-              "ieco": "iECO"
+              "ieco": "iECO",
+              "ai": "IA modua"
             }
           },
           "swing_mode": {
@@ -291,8 +292,14 @@
       "flash_cool": {
         "name": "Flash cool"
       },
+      "ai": {
+        "name": "IA modua"
+      },
       "purifier": {
         "name": "Purifikatzailea"
+      },
+      "prompt_tone": {
+        "name": "Soinua"
       }
     }
   }
