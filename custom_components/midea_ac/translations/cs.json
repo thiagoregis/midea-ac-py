@@ -159,7 +159,8 @@
           },
           "preset_mode": {
             "state": {
-              "ieco": "iECO"
+              "ieco": "iECO",
+              "ai": "Režim AI"
             }
           },
           "swing_mode": {
@@ -290,6 +291,9 @@
       },
       "flash_cool": {
         "name": "Flash cool"
+      },
+      "ai": {
+        "name": "Režim AI"
       },
       "purifier": {
         "name": "Čistička vzduchu"
